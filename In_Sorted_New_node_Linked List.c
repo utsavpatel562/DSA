@@ -1,5 +1,5 @@
 // Implement algorithm of insert a newnode in sorted Link List //
-
+// Data Structure and Algorithm
 //CODE:~
 
 #include<stdio.h>
