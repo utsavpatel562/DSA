@@ -1,4 +1,4 @@
-// Implement Postfix Evaluation using Stack.
+// Implement Postfix Evaluation using Stack. DSA
 
 #include<stdio.h>
 #define max 20
