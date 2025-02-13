@@ -1,3 +1,4 @@
+// CODE BY UTSAV PATEL
 #include<stdio.h>  // Include standard I/O header for input/output functions
 #define max 10     // Define a constant for the maximum stack size
 
